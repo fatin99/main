@@ -75,8 +75,6 @@ A quick look at the `PersonCard` class and its `fxml` file quickly reveals why i
 [source, java]
 ----
 ...
-@FXML
-private Label address;
 ...
 ----
 
@@ -85,7 +83,6 @@ private Label address;
 ----
 ...
 <Label fx:id="phone" styleClass="cell_small_label" text="\$phone" />
-<Label fx:id="address" styleClass="cell_small_label" text="\$address" />
 <Label fx:id="email" styleClass="cell_small_label" text="\$email" />
 ...
 ----
