@@ -289,7 +289,7 @@ Refer to the guide <<DevOps#, here>>.
 *Value proposition*:
 
 * congregates all information regarding claimable hours of teaching in a single location
-* provides desired (TSS) format back to users for convenient viewing 
+* provides desired (TSS) format back to users for convenient viewing.
 
 [appendix]
 == User Stories
