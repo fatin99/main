@@ -4,53 +4,53 @@
 :imagesDir: images
 :stylesDir: stylesheets
 
-AddressBook - Level 3 was developed by the https://se-edu.github.io/docs/Team.html[se-edu] team. +
-_{The dummy content given below serves as a placeholder to be used by future forks of the project.}_ +
-{empty} +
+Acknowledgements: Based on the AddressBook-Level3 project created by https://se-education.org[SE-EDU initiative]. +
+
 We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
 
 == Project Team
 
-=== John Doe
-image::damithc.jpg[width="150", align="left"]
-{empty}[http://www.comp.nus.edu.sg/~damithch[homepage]] [https://github.com/damithc[github]] [<<johndoe#, portfolio>>]
-
-Role: Project Advisor
-
-'''
-
-=== John Roe
-image::lejolly.jpg[width="150", align="left"]
-{empty}[http://github.com/lejolly[github]] [<<johndoe#, portfolio>>]
-
-Role: Team Lead +
-Responsibilities: UI
-
-'''
-
-=== Johnny Doe
-image::yijinl.jpg[width="150", align="left"]
-{empty}[http://github.com/yijinl[github]] [<<johndoe#, portfolio>>]
+=== Gabriel Benedict Teo Jian Cheng
+image::potatocombat.png[width="150", align="left"]
+{empty}[https://github.com/PotatoCombat[github]]
 
 Role: Developer +
-Responsibilities: Data
+Responsibilities: Team lead + Scheduling and tracking
 
 '''
 
-=== Johnny Roe
-image::m133225.jpg[width="150", align="left"]
-{empty}[http://github.com/m133225[github]] [<<johndoe#, portfolio>>]
+=== Aakanksha Rai
+image::aakanksha-rai.png[width="150", align="left"]
+{empty}[https://github.com/aakanksha-rai[github]]
 
 Role: Developer +
-Responsibilities: Dev Ops + Threading
+Responsibilities: Deliverables and deadlines + PlantUML Expert
 
 '''
 
-=== Benson Meier
+=== Chua Yi Jing
+image::chuayijing.png[width="150", align="left"]
+{empty}[https://github.com/chuayijing[github]]
+
+Role: Developer +
+Responsibilities: Testing
+
+'''
+
+=== Fatin Nabilah
+image::fatin99.png[width="150", align="left"]
+{empty}[https://github.com/fatin99[github]]
+
+Role: Developer +
+Responsibilities: Documentation  + Code quality
+
+'''
+
+=== Huang Haoyi
 image::yl_coder.jpg[width="150", align="left"]
-{empty}[http://github.com/yl-coder[github]] [<<johndoe#, portfolio>>]
+{empty}[https://github.com/Eclmist[github]]
 
 Role: Developer +
-Responsibilities: UI
+Responsibilities: Integration
 
 '''
